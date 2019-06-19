@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          LOL CI
+          Niyousha will das sehen
         </a>
       </header>
     </div>
